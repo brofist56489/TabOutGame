@@ -1,0 +1,35 @@
+div#mainDiv {
+    color: #ffffff;
+    background-color: #111111;
+    padding: 0;
+
+    height: 100%;
+    width: 100%;
+}
+
+span.button {
+    height: 128px;
+    background-color: #400;
+    color: inheirit;
+
+    margin : 20px;
+
+    border: solid;
+    border-color: #f00;
+
+    cursor: hand;
+}
+
+span.button:hover {
+    background-color: #f00;
+    border-color: #400;
+}
+
+img.resImg {
+    position: relative;
+
+    width : 64;
+    height: 64px;
+
+    margin: 20px;
+}
